@@ -39,11 +39,11 @@ Getstream.io整理的SaaS服务列表
 
 加入中国内Saas服务
 
-## [开源项目检索ProductHunt](https://www.producthunt.com/)
+## [项目检索ProductHunt](https://www.producthunt.com/)
 
 - 介绍
   
-开源项目检索（App），想要的功能，看看有没有人在做
+项目检索（App），想要的功能，看看有没有人在做,产品调研
 
 ## [Lumascape](https://lumapartners.com/lumascapes/)
 
